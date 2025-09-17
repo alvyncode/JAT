@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elève\\Documents\\INFETProjet\\JAT\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\alvyn\\Documents\\Git\\JATlocal\\JAT\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elève\\Documents\\INFETProjet\\JAT\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\alvyn\\Documents\\Git\\JATlocal\\JAT\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elève\\Documents\\INFETProjet\\JAT\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\alvyn\\Documents\\Git\\JATlocal\\JAT\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Elève\\Documents\\INFETProjet\\JAT\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\Elève\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elève\\Documents\\INFETProjet\\JAT\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\alvyn\\Documents\\Git\\JATlocal\\JAT\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\alvyn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alvyn\\Documents\\Git\\JATlocal\\JAT\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Elève\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\alvyn\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
